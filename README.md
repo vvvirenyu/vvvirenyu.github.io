@@ -1,1 +1,1 @@
-My website in react: [https://vvvirenyu.github.io]
+My website in react: https://vvvirenyu.github.io
